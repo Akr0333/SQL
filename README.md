@@ -1,54 +1,62 @@
-# SQL Portfolio 📊
+# SQL Analytics Portfolio 📊
 
-A practical **SQL learning and analytics portfolio** containing database design projects, business analysis, advanced queries and interview preparation.
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8%2B-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Compatible-336791)
+![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analytics-success)
 
-## 🗂️ Projects
+A hands-on SQL portfolio focused on **database design, business analysis, advanced querying and interview-ready problem solving**.
 
-| Project | Focus |
-|---|---|
-| 🎓 Student Management System | Students, courses, enrolments, relationships |
-| 🛒 E-Commerce Analytics | Customers, orders, products, revenue |
-| 🏦 Banking Database | Accounts, transactions, balances |
-| 👨‍💼 HR Analytics | Employees, departments, salaries, rankings |
-| 🦠 COVID-19 Analysis | Cases, deaths, recoveries and trends |
-| 🎬 Movie Rental Database | Rentals, customers, movies and revenue |
-| 🏥 Hospital Database | Doctors, patients, departments and appointments |
-| 🏭 Data Warehouse Analytics | Revenue, dimensions, CTEs and rankings |
-| 🧪 SQL Practice | Core through advanced SQL exercises |
+## 🚀 Featured Projects
 
-## 🧠 SQL Skills Demonstrated
+| Project | Business Focus | SQL Skills |
+|---|---|---|
+| 🛒 E-Commerce Analytics | Sales, customers, products | JOINs, CTEs, windows |
+| 🏦 Banking Database | Accounts and transactions | Aggregation, CASE, views |
+| 🎓 Student Management | Academic performance | Relationships, GROUP BY |
+| 👨‍💼 HR Analytics | Employees and compensation | Ranking, windows |
+| 🎬 Movie Rental | Rentals and customer behaviour | JOINs, ranking |
+| 🏥 Hospital Database | Doctors, patients, appointments | Aggregation, subqueries |
+| 🏭 Data Warehouse Analytics | Revenue and product performance | CTEs, RANK |
+| 🧪 SQL Interview Practice | Query problem solving | Basic → advanced SQL |
 
-- SELECT, WHERE, LIKE, DISTINCT, BETWEEN
-- INSERT, UPDATE, DELETE, TRUNCATE
-- GROUP BY, HAVING, ORDER BY
-- CASE and aggregate functions
-- Primary Key, Foreign Key, UNIQUE, NOT NULL, CHECK
-- INNER, LEFT, RIGHT, FULL OUTER, SELF and CROSS JOIN concepts
-- UNION and UNION ALL
-- Subqueries and correlated subqueries
-- CTEs with `WITH`
-- Views
-- Window functions: `RANK`, `DENSE_RANK`, `ROW_NUMBER`, `LAG`, `LEAD`
-- Date and string functions
-- Database design and normalisation
+## 🧠 Skills Demonstrated
 
-## ▶️ How to Use
+**Querying:** SELECT, WHERE, LIKE, DISTINCT, BETWEEN, CASE, ORDER BY  
+**Analytics:** GROUP BY, HAVING, aggregate, date and string functions  
+**Relational SQL:** INNER, LEFT, RIGHT, FULL OUTER, SELF and CROSS JOIN concepts  
+**Advanced SQL:** subqueries, correlated subqueries, CTEs, views and window functions  
+**Database design:** primary keys, foreign keys, UNIQUE, NOT NULL, CHECK and normalisation  
+**DML/TCL:** INSERT, UPDATE, DELETE, TRUNCATE, COMMIT and ROLLBACK concepts
 
-For projects containing separate files:
+## 📁 Project Structure
 
-1. Run `schema.sql` to create tables.
-2. Run `data.sql` to insert sample records.
-3. Run `queries.sql` or `analysis.sql`.
-4. Modify the queries and experiment with your own analysis.
+```text
+Project-Name/
+├── schema.sql      # database and tables
+├── data.sql        # sample records
+├── queries.sql     # analysis queries
+└── README.md       # project documentation
+```
 
-The SQL is primarily written for **MySQL 8+ / PostgreSQL**. Date-function syntax may require small changes between database systems.
+## ▶️ Running a Project
 
-## 💼 Portfolio Value
+Use this order:
 
-These projects demonstrate practical skills useful for:
+```text
+1. schema.sql
+2. data.sql
+3. queries.sql / analysis.sql
+```
 
-**Data Analyst • Data Scientist • Backend Developer • SQL Developer • Technical Interviews**
+The projects are primarily written for **MySQL 8+**; some PostgreSQL syntax may need minor changes.
+
+## 💼 Portfolio Workflow
+
+**Business Question → Database Design → Data → SQL Analysis → Insight**
+
+These projects are designed to demonstrate skills relevant to **Data Analyst, Data Scientist, BI and SQL Developer** roles.
 
 ---
 
-⭐ **Learn SQL by building real databases and answering real questions.**
+⭐ **Turning business questions into SQL insights.**
