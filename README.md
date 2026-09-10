@@ -1,36 +1,54 @@
-# SQL Projects 📊
+# SQL Portfolio 📊
 
-A practical SQL portfolio covering database design, analytics, joins, subqueries, CTEs, views, and window functions.
+A practical **SQL learning and analytics portfolio** containing database design projects, business analysis, advanced queries and interview preparation.
 
-## Projects
+## 🗂️ Projects
 
-1. **Student Management System** — students, courses, departments and enrolments.
-2. **E-Commerce Analytics** — customers, products, orders, payments and sales analysis.
-3. **Banking Database** — customers, accounts and transactions with balance analysis.
-4. **HR Analytics** — employee, department and salary analysis using window functions.
-5. **COVID-19 Analysis** — regional case, death and recovery trends.
-6. **SQL Practice** — focused examples for core SQL concepts.
+| Project | Focus |
+|---|---|
+| 🎓 Student Management System | Students, courses, enrolments, relationships |
+| 🛒 E-Commerce Analytics | Customers, orders, products, revenue |
+| 🏦 Banking Database | Accounts, transactions, balances |
+| 👨‍💼 HR Analytics | Employees, departments, salaries, rankings |
+| 🦠 COVID-19 Analysis | Cases, deaths, recoveries and trends |
+| 🎬 Movie Rental Database | Rentals, customers, movies and revenue |
+| 🏥 Hospital Database | Doctors, patients, departments and appointments |
+| 🏭 Data Warehouse Analytics | Revenue, dimensions, CTEs and rankings |
+| 🧪 SQL Practice | Core through advanced SQL exercises |
 
-## Skills Covered
+## 🧠 SQL Skills Demonstrated
 
 - SELECT, WHERE, LIKE, DISTINCT, BETWEEN
 - INSERT, UPDATE, DELETE, TRUNCATE
 - GROUP BY, HAVING, ORDER BY
-- CASE expressions and aggregate functions
-- Primary keys, foreign keys, UNIQUE, NOT NULL, CHECK
+- CASE and aggregate functions
+- Primary Key, Foreign Key, UNIQUE, NOT NULL, CHECK
 - INNER, LEFT, RIGHT, FULL OUTER, SELF and CROSS JOIN concepts
 - UNION and UNION ALL
-- Subqueries and correlated queries
-- CTEs (`WITH`)
+- Subqueries and correlated subqueries
+- CTEs with `WITH`
 - Views
-- Window functions: RANK, DENSE_RANK, ROW_NUMBER, LAG, LEAD
+- Window functions: `RANK`, `DENSE_RANK`, `ROW_NUMBER`, `LAG`, `LEAD`
 - Date and string functions
 - Database design and normalisation
 
-## How to Use
+## ▶️ How to Use
 
-Run each project's `schema.sql` first, then `data.sql`, followed by the analysis/query file. The examples are written primarily for MySQL 8+ and PostgreSQL with small syntax differences noted where relevant.
+For projects containing separate files:
 
-## Portfolio Goal
+1. Run `schema.sql` to create tables.
+2. Run `data.sql` to insert sample records.
+3. Run `queries.sql` or `analysis.sql`.
+4. Modify the queries and experiment with your own analysis.
 
-This repository demonstrates practical SQL skills for data analytics, data science, backend development and technical interviews.
+The SQL is primarily written for **MySQL 8+ / PostgreSQL**. Date-function syntax may require small changes between database systems.
+
+## 💼 Portfolio Value
+
+These projects demonstrate practical skills useful for:
+
+**Data Analyst • Data Scientist • Backend Developer • SQL Developer • Technical Interviews**
+
+---
+
+⭐ **Learn SQL by building real databases and answering real questions.**
