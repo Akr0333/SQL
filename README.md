@@ -1,4 +1,6 @@
-# SQL Analytics Portfolio 📊
+# 📊 SQL Analytics Portfolio
+
+A practical SQL portfolio focused on **business analysis, database design, advanced querying and interview-ready problem solving**.
 
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8%2B-orange)
@@ -52,6 +54,8 @@ Use this order:
 The projects are primarily written for **MySQL 8+**; some PostgreSQL syntax may need minor changes.
 
 ## 💼 Portfolio Workflow
+
+**Business Question → Data Model → SQL Analysis → KPI → Insight**
 
 **Business Question → Database Design → Data → SQL Analysis → Insight**
 
