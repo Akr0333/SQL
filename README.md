@@ -64,3 +64,15 @@ I use SQL as a core part of my Data Analyst workflow — from data modelling and
 **Target roles:** Data Analyst • BI Analyst • Junior Data Scientist
 
 ⭐ **Turning business questions into SQL insights.**
+
+
+## 📸 Project Demo
+
+> Add dashboard screenshots, model evaluation charts and a short demo GIF here so recruiters can understand the result before reading the code.
+
+### Suggested visuals
+- Problem / dataset overview
+- KPI or EDA chart
+- Model evaluation (confusion matrix / ROC-AUC where applicable)
+- Final dashboard or application
+
