@@ -1,49 +1,53 @@
 # 📊 SQL Analytics Portfolio
 
-A practical SQL portfolio focused on **business analysis, database design, advanced querying and interview-ready problem solving**.
+A business-focused SQL portfolio demonstrating how I use relational data to answer **analytical and decision-making questions**.
 
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
-![MySQL](https://img.shields.io/badge/MySQL-8%2B-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Compatible-336791)
-![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analytics-success)
+## 🎯 What This Portfolio Shows
 
-A hands-on SQL portfolio focused on **database design, business analysis, advanced querying and interview-ready problem solving**.
+**Business Question → Data Model → SQL Analysis → KPI → Insight**
 
-## 🚀 Featured Projects
+The projects cover realistic scenarios across sales, customers, banking, HR, healthcare, movies and data warehousing.
+
+## ⭐ Featured Projects
 
 | Project | Business Focus | SQL Skills |
 |---|---|---|
 | 🛒 E-Commerce Analytics | Sales, customers, products | JOINs, CTEs, windows |
 | 🏦 Banking Database | Accounts and transactions | Aggregation, CASE, views |
-| 🎓 Student Management | Academic performance | Relationships, GROUP BY |
 | 👨‍💼 HR Analytics | Employees and compensation | Ranking, windows |
-| 🎬 Movie Rental | Rentals and customer behaviour | JOINs, ranking |
 | 🏥 Hospital Database | Doctors, patients, appointments | Aggregation, subqueries |
 | 🏭 Data Warehouse Analytics | Revenue and product performance | CTEs, RANK |
-| 🧪 SQL Interview Practice | Query problem solving | Basic → advanced SQL |
+| 🎬 Movie Rental | Customer behaviour | JOINs, ranking |
+| 🎓 Student Management | Academic performance | GROUP BY, relationships |
+| 🧪 SQL Practice | Interview preparation | Basic → advanced SQL |
 
 ## 🧠 Skills Demonstrated
 
-**Querying:** SELECT, WHERE, LIKE, DISTINCT, BETWEEN, CASE, ORDER BY  
-**Analytics:** GROUP BY, HAVING, aggregate, date and string functions  
-**Relational SQL:** INNER, LEFT, RIGHT, FULL OUTER, SELF and CROSS JOIN concepts  
-**Advanced SQL:** subqueries, correlated subqueries, CTEs, views and window functions  
-**Database design:** primary keys, foreign keys, UNIQUE, NOT NULL, CHECK and normalisation  
-**DML/TCL:** INSERT, UPDATE, DELETE, TRUNCATE, COMMIT and ROLLBACK concepts
+**Querying:** SELECT, WHERE, LIKE, DISTINCT, BETWEEN, CASE, ORDER BY
+
+**Analytics:** GROUP BY, HAVING, aggregate functions, date functions and string functions
+
+**Relational SQL:** INNER, LEFT, RIGHT, FULL OUTER, SELF and CROSS JOIN concepts
+
+**Advanced SQL:** subqueries, correlated subqueries, CTEs, views and window functions
+
+**Database Design:** primary keys, foreign keys, UNIQUE, NOT NULL, CHECK and normalisation
+
+**Transactions:** INSERT, UPDATE, DELETE, TRUNCATE, COMMIT and ROLLBACK concepts
 
 ## 📁 Project Structure
 
 ```text
 Project-Name/
-├── schema.sql      # database and tables
-├── data.sql        # sample records
-├── queries.sql     # analysis queries
-└── README.md       # project documentation
+├── schema.sql
+├── data.sql
+├── queries.sql
+└── README.md
 ```
 
 ## ▶️ Running a Project
 
-Use this order:
+Typical order:
 
 ```text
 1. schema.sql
@@ -51,16 +55,12 @@ Use this order:
 3. queries.sql / analysis.sql
 ```
 
-The projects are primarily written for **MySQL 8+**; some PostgreSQL syntax may need minor changes.
+Projects are primarily written for **MySQL 8+**; PostgreSQL syntax may require minor adjustments.
 
-## 💼 Portfolio Workflow
+## 💼 Why This Repository Exists
 
-**Business Question → Data Model → SQL Analysis → KPI → Insight**
+I use SQL as a core part of my Data Analyst workflow — from data modelling and joins to KPI analysis and business insights.
 
-**Business Question → Database Design → Data → SQL Analysis → Insight**
-
-These projects are designed to demonstrate skills relevant to **Data Analyst, Data Scientist, BI and SQL Developer** roles.
-
----
+**Target roles:** Data Analyst • BI Analyst • Junior Data Scientist
 
 ⭐ **Turning business questions into SQL insights.**
